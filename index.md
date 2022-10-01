@@ -14,4 +14,5 @@ int main()
     return 0;
 }
 ```
-The referrence link that used to build this site [Github Page](https://pages.github.com/).
+The referrence link that used to build the site [Github Page](https://pages.github.com/).
+The referrence link that used to format the site [Github Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
