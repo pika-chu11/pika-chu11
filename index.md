@@ -23,10 +23,10 @@ int main()
 }
 ```
 ### Progress
-- [x] CSE 110 Design
-- [ ] Math 103A Homework
-- [ ] Math 173A Homework
-- [ ] Math 154 Homework
+1. - [x] CSE 110 Design
+2. - [ ] Math 103A Homework
+3. - [ ] Math 173A Homework
+4. - [ ] Math 154 Homework
 
 ## End
 [Back to Top](#xuying-he)
