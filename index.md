@@ -1,4 +1,4 @@
-[To the End](#end) \
+[To the End](#end)
 
 [Major](#major) \
 [Programming Language](#favorite-programming-language) \
