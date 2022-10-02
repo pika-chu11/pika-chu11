@@ -5,7 +5,9 @@
 
 ### Favorite Programming Language
 * **_C++_** 
-
+* **_Python_** 
+* **_Java_**
+ 
 Here some *C++* Source code displaying a message *Hello World* in the terminal:
 ```
 #include <iostream>
