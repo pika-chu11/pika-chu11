@@ -1,12 +1,16 @@
 # **Xuying He**
+
+
+
+
 ### Major
 * ***Math-Computer Science***
 >I am a transfer student. This is my second year at UCSD. I am majoring *Math-Computer Science*. I like coding, so the course that I am taking right now is almost the same as other CS major students. Hopefully, I can be a software developer in the future. I like playing mobile game in my sparse time. 
 
 ### Favorite Programming Language
-* **_C++_** 
-* **_Python_** 
-* **_Java_**
+1. **_C++_** 
+2. **_Python_** 
+3. **_Java_**
  
 Here some *C++* Source code displaying a message *Hello World* in the terminal:
 ```
