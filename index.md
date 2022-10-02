@@ -2,6 +2,7 @@
 # **Xuying He**
 ![Github profile image](/github_profile.png)
 * This is my github link profile: [Github Profile](https://github.com/pika-chu11)
+
 ### Major
 * ***Math-Computer Science***
 >I am a transfer student. This is my second year at UCSD. I am majoring *Math-Computer Science*. I like coding, so the course that I am taking right now is almost the same as the other CS major students. Hopefully, I can be a software developer in the future.
