@@ -1,7 +1,5 @@
 # **Xuying He**
-
-
-
+![Github profile image](/github_profile.png)
 
 ### Major
 * ***Math-Computer Science***
