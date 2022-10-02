@@ -1,3 +1,4 @@
+[To the End](#end)
 # **Xuying He**
 ![Github profile image](/github_profile.png)
 * This is my github link profile: [Github Profile](https://github.com/pika-chu11)
@@ -21,11 +22,14 @@ int main()
     return 0;
 }
 ```
+### Progress
+- [x] CSE 110 Design
+- [ ] Math 103A Homework
+- [ ] Math 173A Homework
+- [ ] Math 154 Homework
+
+## End
+[Back to Top](#xuying-he)
+
 The referrence link that used to build the site [Github Page](https://pages.github.com/).\
 The referrence link that used to format the site [Github Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-## Section Link
-[Readme](/README.md)
-
-
-[Back to Top](#xuying-he)
