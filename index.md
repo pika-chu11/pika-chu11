@@ -1,7 +1,12 @@
 # **Xuying He**
-**Major: *Math-Computer Science*** \
-**Favorite Programming Language: *C++***
+### Major
+***Math-Computer Science*** \
 >I am a transfer student. This is my second year at UCSD. I am majoring *Math-Computer Science*. I like coding, so the course that I am taking right now is almost the same as other CS major students. Hopefully, I can be a software developer in the future. I like playing mobile game in my sparse time. 
+
+### Favorite Programming Language
+* ***C++ *** 
+* ***Python *** 
+* ***Java *** 
 
 Here some *C++* Source code displaying a message *Hello World* in the terminal:
 ```
@@ -18,4 +23,4 @@ The referrence link that used to build the site [Github Page](https://pages.gith
 The referrence link that used to format the site [Github Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Section Link
-[Readme.md](/README.md)
+[Readme](/README.md)
