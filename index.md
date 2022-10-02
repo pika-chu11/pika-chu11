@@ -1,7 +1,7 @@
 [To the End](#end)
 # **Xuying He**
 ![Github profile image](/github_profile.png)
-* This is my github link profile: [Github Profile](https://github.com/pika-chu11) \
+* This is my github link profile: [Github Profile](https://github.com/pika-chu11)
 
 ### Major
 * ***Math-Computer Science***
